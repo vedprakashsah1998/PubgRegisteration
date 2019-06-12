@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/create"
+            android:title="Home"
+            android:icon="@drawable/ic_home"/>
+        <item android:id="@+id/tournament"
+            android:title="List of Tornament"
+            android:icon="@drawable/ic_event_black"/>
+        <item android:id="@+id/register"
+            android:title="User Detail"
+            android:icon="@drawable/ic_group"/>
+    </group>
+</menu>
